@@ -14,3 +14,7 @@ First of all, I'm so sorry that [template variables feature](https://github.com/
 2. Define 1 pipeline, which will be run when the folder has any changes
    1. This pipeline generates new workflow/issue template files based on the values defined in the configuration folder
    2. All changes are raised as a pull request in the repository and can be manually adjusted before merge
+
+## Resources
+- https://github.blog/2023-11-08-the-state-of-open-source-and-ai/
+- https://octoverse.github.com/2022/state-of-open-source
