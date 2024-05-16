@@ -15,6 +15,9 @@ First of all, I'm so sorry that [template variables feature](https://github.com/
    1. This pipeline generates new workflow/issue template files based on the values defined in the configuration folder
    2. All changes are raised as a pull request in the repository and can be manually adjusted before merge
 
+## Community checklist
+<img width="929" alt="image" src="https://github.com/maZahaca/inclusive-opensource/assets/1290067/4dcce8d6-a943-4bfb-ba34-280ad9e0678b">
+
 ## Resources
 - https://opensource.guide/
 - https://github.blog/2023-11-08-the-state-of-open-source-and-ai/
