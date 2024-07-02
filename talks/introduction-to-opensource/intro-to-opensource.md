@@ -1,5 +1,7 @@
 # Open source - Free software: what it is (and what it’s not)
 
+Author: [Andrew Reddikh](https://twitter.com/AndrewRedUK)
+
 ## Evolution of Open source and free software
 
 ### Early days of free software
