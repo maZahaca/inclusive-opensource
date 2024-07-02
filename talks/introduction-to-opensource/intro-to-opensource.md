@@ -19,6 +19,7 @@ This experience convinced Stallman of people's need to be able to freely modify 
 ### Birth of the GNU Project
 
 ![Stallman](./assets/Stallman.png)
+
 Stallman announced the plan for the GNU operating system in September 1983.
 In 1985, Stallman published the GNU Manifesto, which outlined his motivation for creating a free operating system called GNU, which would be compatible with Unix.
 The name GNU is a recursive acronym for "GNU's Not Unix".
@@ -37,7 +38,9 @@ Later components developed in GNU was used together with Linux kernel, forming t
 - GNU/Linux: Combination of GNU components and the Linux kernel creates a complete free operating system
 
 ### GNU GPL Principles
-![Stallman](./assets/GNU.png)
+
+![GNU](./assets/GNU.png)
+
 - Freedom to run the program for any purpose.
 - Freedom to study and modify the program.
 - Freedom to redistribute copies.
@@ -46,7 +49,9 @@ Later components developed in GNU was used together with Linux kernel, forming t
 For all copies the license should be kept as GPL.
 
 ### Open Source Initiative
+
 ![OSI](./assets/OSI.png)
+
 In 1998, a group of individuals, dissatisfied with the term "free software", gathered to discuss the need for a new term that would appeal to business executives and software developers.
 The term "open source" was coined at a strategy session held at the VA Research offices in Mountain View, California.
 The Open Source Initiative (OSI) was founded in February 1998 to promote and protect open source software.
@@ -70,7 +75,9 @@ These licenses grant users the freedom to use, modify, and distribute the softwa
 Some of the most popular open source licenses include the GNU General Public License (GPL), the Apache License, and the MIT License.
 
 ## Types of OSS Licenses
-![Stallman](./assets/os-licenses-compare.png)
+
+![OS licences](./assets/os-licenses-compare.png)
+
 **Copyleft Licenses:**
   - Require derived works to be distributed under the same license terms.
   - Aim to ensure software remains free and open.
@@ -99,7 +106,7 @@ As a result a group of volunteers forked the project and created a new one calle
 ### We use open source
 even though we don't know it
 
-![](./assets/package-manager-count.png)
+![package managers](./assets/package-manager-count.png)
 
 **Package Managers** - unlock the speed we use OSS to build our products
 - pip install (Python)
@@ -127,12 +134,14 @@ even though we don't know it
 ## Examples
 
 ### Private Source Project
-![](./assets/private-source-example.png)
+
+![Private source example](./assets/private-source-example.png)
+
 Recently, I worked on a private project—a Telegram Journaling Application solo. The work lasted three months while we looked for funding. Unfortunately, we didn’t get to the point in six months, and I personally burned out with no output. The project was closed.
 
 ### Open Source Project
 On another side with open source.
-![](./assets/open-source-example.png)
+![Open source example](./assets/open-source-example.png)
 
 3 months ago, I joined an amazing Open Source project: [Yoopta Editor](https://github.com/Darginec05/Yoopta-Editor).
 This is a highly extensible Notion-like WYSIWYG Editor. Basically, it’s Notion available in Open Source, where you can integrate it into your application as a text editor. During this time, we started to speak about it, also investing some time into publications on Reddit, HackerNews, and others. Also, we contributed a lot of time to documentation, contribution guides, configuration CI/CD, and forming the community in Telegram.
@@ -147,7 +156,7 @@ Here are some metrics we achieved for the last 1.5 months:
 
 ### GitHub Reports on Open Source
 
-![](./assets/github-reports.png)
+![Github Reports](./assets/github-reports.png)
 - **Steady Growth:** There is a consistent increase in the number of developers, new users, and new repositories on GitHub from 2020 to 2023.
 - **Developer Engagement:** The total contributions, indicating active participation and collaboration, have shown a significant upward trend.
 - **Impact of Remote Work:** The surge in contributions during the pandemic years reflects increased engagement in open-source projects as developers adapted to remote work.
