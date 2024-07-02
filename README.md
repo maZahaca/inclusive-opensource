@@ -18,6 +18,9 @@ First of all, I'm so sorry that [template variables feature](https://github.com/
 ## Community checklist
 <img width="929" alt="image" src="https://github.com/maZahaca/inclusive-opensource/assets/1290067/4dcce8d6-a943-4bfb-ba34-280ad9e0678b">
 
+## Talks
+- [Open source - Free software: what it is (and what it’s not)](./talks/introduction-to-opensource/intro-to-opensource.md)
+
 ## Resources
 - https://opensource.guide/
 - https://github.blog/2023-11-08-the-state-of-open-source-and-ai/
